@@ -1,0 +1,22 @@
+{
+    "name": "crn-carregamentoSpinner",
+    "text": "Carregamento Spinner",
+    "image": "/node_modules/cronapp-framework-js/img/cron-icon/crn-plugin.svg",
+    "description": "Carregamento Spinner",
+    "description_en_US": "Carregamento Spinner",
+    "category": [
+        "PLUGINS"
+    ],
+    "templateURL": "${webcontent}/components/templates/carregamentoSpinner.template.html",
+    "properties": {
+        "class": {
+            "order": 9999
+        },
+        "id": {
+            "order": 1
+        }
+    },
+    "attributesForPreview": [],
+    "childrenProperties": [],
+    "styles": [],
+    "designTimeHTML": "<img style=\"height: 80px;width:100px;min-height:50px; min-width: 50px;\" src=\"img/carregamento.jpg\"/>",
